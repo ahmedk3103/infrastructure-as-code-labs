@@ -1,0 +1,12 @@
+# Terraform
+**/.terraform/*
+**/*.tfstate
+**/*.tfstate.*
+**/*.pem
+**/*.tfvars
+
+# VS Code
+.vscode/
+
+# Crash logs
+crash.log
